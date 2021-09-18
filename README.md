@@ -23,18 +23,20 @@ Je m'apelle Lorenzo et je suis actuellement étudiant en deuxième année de dé
 
 ##### Mes passions :art:
 
-<div style="text-align: right" > 
+<div style="text-align: right"> 
   <img src="Passion.gif" alt="Piano et Anime" width="300"/>
-  <img src="dev.gif" alt="Piano et Anime" width="250"/>
+  <img src="dev.gif" alt="Développement Web" width="250"/>
 </div>
 
 
 ###### J'aime beacoup les animés, le piano et bien évidemment le code !
 
+---
+
 #### Me contacter :memo:
 
-- Lorenzo Aversano sur Linkdin
-- lorenzoavr_ sur Intsgram 
+- [Ma page Linkdin](https://www.linkedin.com/in/lorenzo-aversano-03a8b5207/)
+
 
 
 
