@@ -12,6 +12,7 @@ Je m'appelle Lorenzo et je suis actuellement étudiant en deuxième année de d�
   <img src="/img/Html.png" alt="HTML" width="100"/>
   <img src="/img/CSS.png" alt="CSS" width="70"/ >
   <img src="/img/PHP.png" alt="PHP" width="100"/>
+  <img src="/img/JS.png" alt="JS" width="80"/>
   <img src="/img/MySql.png" alt="MySql" width="100"/>
   <img src="/img/Python.jpg" alt="Python" width="100"/>
   <img src="/img/Git.jpg" alt="GIT" width="100"/>
