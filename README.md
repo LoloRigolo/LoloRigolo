@@ -38,6 +38,13 @@ Je m'appelle Lorenzo et je suis actuellement étudiant en deuxième année de d�
 
 - [Ma page Linkdin](https://www.linkedin.com/in/lorenzo-aversano-03a8b5207/)
 
+---
+
+<h1 align="center">
+
+ ![LorenzoAversano's github stats](https://github-readme-stats.vercel.app/api?username=LorenzoAversano&show_icons=true)
+  
+</h1>
 
 
 
